@@ -1,0 +1,14 @@
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\bin\Debug\net6.0\LearningSharper5.exe
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\bin\Debug\net6.0\LearningSharper5.deps.json
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\bin\Debug\net6.0\LearningSharper5.runtimeconfig.json
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\bin\Debug\net6.0\LearningSharper5.dll
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\bin\Debug\net6.0\LearningSharper5.pdb
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.AssemblyInfoInputs.cache
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.AssemblyInfo.cs
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.csproj.CoreCompileInputs.cache
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.dll
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\refint\LearningSharper5.dll
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.pdb
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\LearningSharper5.genruntimeconfig.cache
+C:\Users\buzz5\source\repos\LearningSharper5\LearningSharper5\obj\Debug\net6.0\ref\LearningSharper5.dll
